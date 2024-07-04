@@ -3501,7 +3501,7 @@ echo -ne "\n${aoiBlue}# Hostname${plain}\n\n"
 echo "$HostName"
 
 if [[ -z "$tmpWORD" || "$linux_relese" == 'alpinelinux' ]]; then
-	tmpWORD='LeitboGi0ro'
+	tmpWORD='tcpi.top'
 	myPASSWORD='$6$qE9Lqgrd0QTOq46i$YMECmKvIw2SeBP4X411I0ZWmtyMsRcBi4Rxu7HYRsqdwqSApi6zjds5UJyM4HrAoBcuLBmjPyLatGydulmCDb0'
 else
 	# "-1" is MD5, "-5" is SHA256, "-6" is SHA512. MD5 is no longer secure.
